@@ -114,7 +114,7 @@ input {
 }
 
 .success-number .b-clor {
-    color: #90c404;
+    color: #1d99c5;
 }
 
 .base-color-bg {
@@ -206,7 +206,7 @@ hr.dark-line {
 
 .btn.btn-fill.full-width:hover {
     background: #fff;
-    color: #90c404;
+    color: #1d99c5;
 }
 
 
@@ -448,11 +448,11 @@ form .customised-formgroup textarea {
 .btn:focus {
     font-size: 14px;
     line-height: 46px;
-    background: #90c404;
+    background: #1d99c5;
     border-radius: 0;
     padding: 0 15px;
     text-transform: uppercase;
-    border: 2px solid #90c404;
+    border: 2px solid #1d99c5;
     letter-spacing: 1px;
     color: #fff;
     font-weight: 600;
@@ -462,7 +462,7 @@ form .customised-formgroup textarea {
 
 .btn.btn-nofill {
     background: transparent;
-    color: #90c404;
+    color: #1d99c5;
 }
 
 .main-slider .btn.btn-fill {
@@ -480,7 +480,7 @@ form .customised-formgroup textarea {
 }
 
 .tparrows:hover::before {
-    color: #90c404;
+    color: #fff;
 }
 
 .btn.btn-fill .icon-chevron-right {
@@ -495,12 +495,12 @@ form .customised-formgroup textarea {
 .btn.btn-fill:hover,
 .btn.btn-fill:active {
     background: transparent;
-    color: #90c404;
+    color: #1d99c5;
 }
 
 .btn.btn-nofill:hover,
 .btn.btn-nofill:active {
-    background: #90c404;
+    background: #1d99c5;
     color: #fff;
 }
 
@@ -522,7 +522,7 @@ form .customised-formgroup textarea {
 }
 
 .dmb-home.medium-btn2.btn.btn-nofill {
-    color: #90c404;
+    color: #fff;
 }
 
 .dmb-home.medium-btn2.btn.btn-nofill:hover {
@@ -530,7 +530,7 @@ form .customised-formgroup textarea {
 }
 
 .dmb-home.medium-btn.btn.btn-fill:hover {
-    color: #90c404;
+    color: #fff;
 }
 
 
@@ -582,7 +582,7 @@ header [class^="icon-"] {
 }
 
 header .contact-info ul li a:hover {
-    color: #90c404;
+    color: #008ccb;
 }
 
 header .form-element {
@@ -669,7 +669,7 @@ header .form-inline button {
 .main-menu .navbar-nav>li:hover>a,
 .main-menu .navbar-nav>li.active>a {
     background: none;
-    border-bottom: 2px solid #90c404;
+    border-bottom: 2px solid #1d99c5;
 }
 
 .main-menu .navbar-nav .dropdown>a>i {
@@ -822,13 +822,13 @@ header .form-inline button {
     line-height: 40px;
     text-transform: uppercase;
     font-weight: 600;
-    color: #90c404;
+    color: #1d99c5;
 }
 
 .main-menu .navbar-nav a:active,
 .main-menu .navbar-nav a.active,
 .main-menu .navbar-nav li .dropdown-megamenu a.active span {
-    color: #90c404;
+    color: #1d99c5;
 }
 
 .main-menu .navbar-nav li .dropdown-megamenu a.active {
@@ -1185,7 +1185,7 @@ header .form-inline button {
 
 .services .box-green-border .service-overlay ul li a:hover,
 .services .box-green-border .service-overlay ul li a:hover i {
-    color: #90c404;
+    color: #1d99c5;
 }
 
 
@@ -1298,8 +1298,8 @@ header .form-inline button {
 
 .portfolio .filter-button-group button:hover,
 .portfolio .filter-button-group button.is-checked {
-    color: #90c404;
-    border-color: #90c404;
+    color: #1d99c5;
+    border-color: #1d99c5;
     outline: none;
 }
 
@@ -1352,7 +1352,7 @@ header .form-inline button {
 }
 
 .portfolio .grid-item h3 a:hover {
-    color: #90c404;
+    color: #008ccb;
 }
 
 .potfolio-modal .thumb-list {
@@ -1600,7 +1600,7 @@ header .form-inline button {
 }
 
 .case-studies-carousel .carousel-caption a {
-    color: #90c404;
+    color: #1d99c5;
     font-size: 14px;
     line-height: 30px;
 }
@@ -1832,7 +1832,7 @@ form .form-control:focus {
     line-height: 30px;
     text-transform: uppercase;
     margin-top: 8px;
-    color: #fff;
+    color: #41aad0;
 }
 
 .success-number .no_count {
@@ -2293,7 +2293,7 @@ footer .light-ash-bg ul a {
 }
 
 footer .light-ash-bg ul a:hover {
-    color: #90c404;
+    color: #008ccb;
 }
 
 footer .light-ash-bg .logo {
@@ -2356,7 +2356,7 @@ footer .light-ash-bg ul.social-links li a:hover,
 footer .light-ash-bg ul.social-links li a:active,
 ul.social-links li a:hover,
 ul.social-links li a:active {
-    background: #90c404;
+    background: #008ccb;
     color: #fff;
 }
 
