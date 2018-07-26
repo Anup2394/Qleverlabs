@@ -242,7 +242,7 @@ hr.dark-line {
 .box-green-border:hover a,
 .box-green-border a:focus,
 .box-green-border:hover span {
-    color: #90c404;
+    color: #1d99c5;
     text-decoration: none;
 }
 
@@ -371,7 +371,7 @@ form .customised-formgroup input:focus {
 
 form .customised-formgroup input:focus,
 form .customised-formgroup textarea:focus {
-    border-color: #90c404;
+    border-color: #1d99c5;
 }
 
 form .customised-formgroup input::-webkit-input-placeholder {
@@ -637,7 +637,7 @@ header .form-inline button {
 .main-menu .nav .open>a:hover,
 .main-menu .nav .open>a:focus {
     background: none;
-    border-bottom: 2px solid #90c404;
+    border-bottom: 2px solid #1d99c5;
     color: #1a252b;
 }
 
@@ -797,7 +797,7 @@ header .form-inline button {
 }
 
 .main-menu .navbar-nav li>.dropdown-menu .megamenu li a:hover {
-    color: #90c404;
+    color: #1d99c5;
 }
 
 .main-menu .navbar-nav li>.dropdown-megamenu .megamenu .dropdown-submenu li a {
@@ -814,7 +814,7 @@ header .form-inline button {
 
 .main-menu .navbar-nav li>.dropdown-menu .megamenu .dropdown-submenu li a:hover,
 .main-menu .navbar-nav li>.dropdown-menu .megamenu .dropdown-submenu li.active a {
-    color: #90c404!important;
+    color: #1d99c5;
 }
 
 .main-menu .navbar-nav li>.dropdown-megamenu .megamenu .dropdown-submenu .submenu-heading {
@@ -2454,11 +2454,11 @@ footer .extra-small-text {
 }
 
 .banner-inner .btn.btn-nofill {
-    border-color: #ffffff;
+    border-color: #1d99c5;
 }
 
 .banner-inner .btn.btn-nofill:hover {
-    border-color: #90c404;
+    border-color: #1d99c5;
 }
 
 
@@ -2545,7 +2545,7 @@ footer .extra-small-text {
 }
 
 .process-model li.visited::after {
-    background: #90c404;
+    background: #259cc7;
 }
 
 .process-model li:last-child::after {
@@ -2594,7 +2594,7 @@ footer .extra-small-text {
 .process-model li.visited a,
 .process-model li.visited a:hover,
 .process-model li.visited a:focus {
-    color: #90c404;
+    color: #1d99c5;
 }
 
 .process-model li.active p,
@@ -2618,7 +2618,7 @@ footer .extra-small-text {
 .process-model li.active span,
 .process-model li.visited span {
     background: #fff;
-    border-color: #90c404;
+    border-color: #1d99c5;
 }
 
 .process-model li p {
@@ -3694,7 +3694,7 @@ div.text-box ul li,
     display: inline-block;
     padding-right: 25px;
     border-right: 1px solid #d5d5d5;
-    color: #90c404;
+    color: #1d99c5;
     line-height: 50px;
 }
 
@@ -4095,7 +4095,7 @@ div.text-box ul li,
 }
 
 .about-box:hover .round-icon-wrapper {
-    background: #90c404;
+    background: #1d99c5;
     color: #fff;
 }
 
@@ -4104,7 +4104,7 @@ div.text-box ul li,
 }
 
 .about-box:hover h3 a {
-    color: #90c404;
+    color: #1d99c5;
 }
 
 .about-page-list {
