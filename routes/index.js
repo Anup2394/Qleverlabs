@@ -46,34 +46,9 @@ router.get('/portfolio', function (req, res, next) {
 	res.render('portfolio', { title: 'Express' });
 });
 
-/* GET html page. */
-router.get('/html_css', function (req, res, next) {
-	res.render('html_css', { title: 'Express' });
-});
-
-/* GET angular page. */
-router.get('/angular', function (req, res, next) {
-	res.render('angular', { title: 'Express' });
-});
-
-/* GET bootstrap page. */
-router.get('/bootstrap', function (req, res, next) {
-	res.render('bootstrap', { title: 'Express' });
-});
-
-/* GET nodejs page. */
-router.get('/nodejs', function (req, res, next) {
-	res.render('nodejs', { title: 'Express' });
-});
-
-/* GET reactjs page. */
-router.get('/reactjs', function (req, res, next) {
-	res.render('reactjs', { title: 'Express' });
-});
-
-/* GET corejs page. */
-router.get('/corejs', function (req, res, next) {
-	res.render('corejs', { title: 'Express' });
+/* GET technologies page. */
+router.get('/technologies', function (req, res, next) {
+	res.render('technologies', { title: 'Express' });
 });
 
 /* GET website development page. */
@@ -81,39 +56,19 @@ router.get('/website-development', function (req, res, next) {
 	res.render('website-development', { title: 'Express' });
 });
 
-/* GET product development page. */
-router.get('/product-development', function (req, res, next) {
-	res.render('product-development', { title: 'Express' });
+/* GET mobile app page. */
+router.get('/mobile-app', function (req, res, next) {
+	res.render('mobile-app', { title: 'Express' });
 });
 
-/* GET ecommerce  page. */
-router.get('/ecommerce', function (req, res, next) {
-	res.render('ecommerce', { title: 'Express' });
+/* GET marketing page. */
+router.get('/online-marketing', function (req, res, next) {
+	res.render('online-marketing', { title: 'Express' });
 });
 
-/* GET IOT  page. */
-router.get('/iot', function (req, res, next) {
-	res.render('iot', { title: 'Express' });
-});
-
-/* GET machine learning page. */
-router.get('/machine-learning', function (req, res, next) {
-	res.render('machine-learning', { title: 'Express' });
-});
-
-/* GET native app page. */
-router.get('/native-app', function (req, res, next) {
-	res.render('native-app', { title: 'Express' });
-});
-
-/* GET hybrid app page. */
-router.get('/hybrid', function (req, res, next) {
-	res.render('hybrid', { title: 'Express' });
-});
-
-/* GET ionic app page. */
-router.get('/ionic', function (req, res, next) {
-	res.render('ionic', { title: 'Express' });
+/* GET design page. */
+router.get('/design', function (req, res, next) {
+	res.render('design', { title: 'Express' });
 });
 
 
